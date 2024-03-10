@@ -22,9 +22,9 @@ ChatBot is a conversational agent designed to interact with users in natural lan
 This project is open to community contributions. If you'd like to contribute, feel free to fork the repository, make your changes, and submit a pull request. Contributions in the form of new features, improvements to existing features, bug fixes, or documentation enhancements are all welcome!
 
 ## Known Issues
-- The weather feature is currently not working. This is a work in progress project, and we're actively working on fixing this issue. Contributions to resolve this issue are highly appreciated!
+- The weather feature is currently not working. This is a work-in-progress project, and I'm actively working on fixing this issue. Contributions to resolve this issue are highly appreciated!
 
 ## Contact
-For any questions, feedback, or suggestions, please feel free to reach out to us.
+For any questions, feedback, or suggestions, please feel free to reach out to me.
 
 Thank you for using ChatBot!
