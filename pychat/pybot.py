@@ -120,7 +120,7 @@ patterns = [
 
 # Function to get weather information for a given city
 def get_weather(city):
-    api_key = "fcdce3c23e792084b0dd11a1bd4da269"  # Replace with your OpenWeatherMap API key
+    api_key = "YOUR_API_KEY_HERE"  # Replace with your OpenWeatherMap API key
     base_url = "http://api.openweathermap.org/data/2.5/weather"
     params = {
         "q": city,
