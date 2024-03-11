@@ -23,7 +23,7 @@ This project is open to community contributions. If you'd like to contribute, fe
 
 ## Known Issues
 - The weather feature is currently not working. This is a work-in-progress project, and I'm actively working on fixing this issue. Contributions to resolve this issue are highly appreciated!
-- A lot of questions you prompt to the bot will respond with "none" because there isn't data built into the chatbot yet for it to properly respond.
+- A lot of questions you prompt to the bot will respond with "none" because there isn't enough data built into the chatbot currently for it to properly respond to the user.
 
 ## Contact
 For any questions, feedback, or suggestions, please feel free to reach out to me.
