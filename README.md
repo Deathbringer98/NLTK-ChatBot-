@@ -16,7 +16,7 @@ ChatBot is a conversational agent designed to interact with users in natural lan
 1. Clone or download the repository to your local machine.
 2. Make sure you have Python installed.
 3. Install the necessary dependencies by running the installation prompt in the terminal ` pip install nltk
-4. Run the chatbot by executing the `pybot.py` script.
+4. Run the chatbot by executing the `pybot.py` script. (Running the program in your IDE)
 
 ## Contributions
 This project is open to community contributions. If you'd like to contribute, feel free to fork the repository, make your changes, and submit a pull request. Contributions in the form of new features, improvements to existing features, bug fixes, or documentation enhancements are all welcome!
